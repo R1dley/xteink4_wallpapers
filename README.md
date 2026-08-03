@@ -5,7 +5,7 @@ You can use the download.py script to batch download all the images from the [Po
 1. Ensure you have python installed.
 2. Create and activate a virtual environment:
 
-```python3 -m vent venv```
+```python3 -m venv venv```
 
 ```source venv/bin/activate```
 

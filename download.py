@@ -15,7 +15,7 @@ async def download_bmp_files():
         await page.goto("https://basvanderploeg.nl/xteink/pokemon/", wait_until="networkidle")
         await page.wait_for_timeout(1000)
 
-        START_ID = 152
+        START_ID = 1
         END_ID = 1025  # Adjust as needed (e.g., 1025 for all generations)
 
         for i in range(START_ID, END_ID + 1):

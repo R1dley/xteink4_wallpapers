@@ -9,5 +9,5 @@ You can use the download.py script to batch download all the images from the [Po
 
 ```source venv/bin/activate```
 
-4. Install playwright (pip install playwright).
-5. Install the required browser binaries (playwright install chromium).
+3. Install playwright (pip install playwright).
+4. Install the required browser binaries (playwright install chromium).

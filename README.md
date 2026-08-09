@@ -11,3 +11,8 @@ You can use the download.py script to batch download all the images from the [Po
 
 3. Install playwright (pip install playwright).
 4. Install the required browser binaries (playwright install chromium).
+
+
+## Online Wallpaper Generators
+- [Offline Emergency Page](http://www.linkpeitsche.de/)
+- [Sleep Screen Studio](https://pocketink.io/tools/xteink-wallpaper-maker/)

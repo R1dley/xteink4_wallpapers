@@ -17,3 +17,4 @@ You can use the download.py script to batch download all the images from the [Po
 - [Offline Emergency Page](http://www.linkpeitsche.de/)
 - [Sleep Screen Studio](https://pocketink.io/tools/xteink-wallpaper-maker/)
 - [Kawase Hasui Japanese Prints](https://ukiyo-e.org/artist/kawase-hasui)
+- [RSS Wallpaper Generator](https://koreader.rssfriends.com/)
